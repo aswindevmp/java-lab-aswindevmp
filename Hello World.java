@@ -4,3 +4,5 @@ class Hello {
 		System.out.println("Hello World");
 	}
 }
+//Output//
+Hello World
