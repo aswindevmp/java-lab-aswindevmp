@@ -17,8 +17,13 @@ public class Armstrong {
         if(num==res)
             System.out.println(num+" is Armstrong Number");
         else
-            System.out.println(num+" is Not Amstrong Number");
+            System.out.println(num+" is Not Armstrong Number");
     
 
     }
 }
+//output//
+ Enter a Number : 2
+     2 is Not Armstrong Number
+ Enter a Number : 0
+     0 is Armstrong Number
