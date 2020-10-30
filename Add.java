@@ -8,3 +8,6 @@ public class Add {
         System.out.println(sum);
     }
 }
+
+//output//
+    6
