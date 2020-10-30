@@ -16,6 +16,13 @@ public class Oddoreven {
             System.out.println(num+" is Odd");
         }
         else
-            System.out.println(num+" is zero");
+            System.out.println("zero");
     }
 }
+// Output//
+Enter a Number: 3
+    3 is Odd
+Enter a Number: 6
+    6 is Even
+Enter a Number: 0
+    zero
