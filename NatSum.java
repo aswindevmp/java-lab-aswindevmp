@@ -15,3 +15,6 @@ public static void main(String[] args) {
     System.out.printf("Sum of first %d natural no.s = %d",n,sum);
 }
 }
+// Output //
+Enter a value for N: 3
+    Sum of first 3 natural no.s = 6 
