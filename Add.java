@@ -1,13 +1,13 @@
 public class Add {
     public static void main(String[] args) {
 
-        int a=2;
-        int b=4;
+        int x=10;
+        int y=5;
         int sum;
-        sum = a+b;
+        sum = x+y;
         System.out.println(sum);
     }
 }
 
 //output//
-    6
+    15
