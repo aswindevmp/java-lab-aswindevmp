@@ -23,3 +23,8 @@ public class Palindrome {
 
     }
 }
+// Output //
+Enter a Number: 111
+    111 is a Palindrome
+Enter a Number: 123
+    123 is Not a palindrome
