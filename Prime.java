@@ -24,3 +24,9 @@ public static void main(String[] args) {
 
 }
 }
+//Output//
+Enter a Number: 3
+    3 is a Prime Number
+Enter a Number: 9
+    9 is not a prime Number
+    
