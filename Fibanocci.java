@@ -20,3 +20,6 @@ public class Fibanocci {
     
 }
 }
+// Output//
+Enter a Number: 3
+    First 3 terms of Fibanocci Series :- 0 1 1
